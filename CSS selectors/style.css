@@ -1,0 +1,15 @@
+* {
+    background-color: blueviolet;
+    color: white;
+}
+
+.LCU{
+    background-color: aqua;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100px;
+}
+.LCU span{
+    color:red;
+    background-color: aqua;
+}

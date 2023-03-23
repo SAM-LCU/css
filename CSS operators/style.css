@@ -1,0 +1,66 @@
+h1{
+    color: cornsilk;
+    text-align: center;
+}
+
+*{
+    background-color:black;
+    color:whitesmoke;
+}
+.LCU{
+    background-color: azure;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    word-spacing: 1em;
+    padding:5%;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+p{
+    text-align: center;
+    border: darkred 5px solid;
+}
+.cinema{
+    border: 1px solid;
+    border-radius: 15px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: aqua;
+}
+a:active{
+    color: rgb(1, 255, 1);
+}
+a:visited{
+    color:white;
+}
+
+.cinema li{
+    padding-bottom: 5px;
+    list-style: square;
+}
+.f1{
+    padding: 20px;
+}
+.fg{
+    padding-bottom: 20px;
+}
+.f1 label{
+    display: block;
+}
+.fg button{
+    background-color: aquamarine;
+    color: black;
+    padding: 10px;
+}
+h2{
+    text-align:center;
+}
